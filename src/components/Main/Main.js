@@ -1,7 +1,7 @@
 import React from 'react';
 import './Main.css';
 import Animal from '../Animal/Animal';
-import background from './background.png';
+import background from '../../background.png';
 
 import { animals } from '../../data';
 
